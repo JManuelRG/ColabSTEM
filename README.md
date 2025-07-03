@@ -5,6 +5,12 @@
   <strong>Tipo:</strong> Taller de formación docente
 </p>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Logo_Instituto_Politécnico_Nacional.png" alt="IPN" height="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upiig.ipn.mx/assets/files/upiig/img/upiig/logo-upiig.png" alt="UPIIG" height="100"/>
+</p>
+
 ---
 
 ## 🧠 <span style="color:#82214e;">Justificación</span>
