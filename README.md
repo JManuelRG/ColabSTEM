@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/6/63/Logo_Instituto_Politécnico_Nacional.png](https://www.upiig.ipn.mx/assets/files/upiig/IMG%20Inicio%20/2024/upiig.jpg)" alt="IPN" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upiig.ipn.mx/assets/files/upiig/img/upiig/logo-upiig.png" alt="UPIIG" height="100"/>
+  <img src="https://www.upiig.ipn.mx/assets/files/upiig/IMG%20Inicio%20/2024/upiig.jpg" alt="UPIIG Imagen 2024" width="600"/>
 </p>
+
 
 ---
 
